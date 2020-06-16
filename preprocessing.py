@@ -56,7 +56,6 @@ with open(r"data/male_tagged.txt", "w+") as maletxt:
         maletxt.write("\n")
         i += 1
         print(str(i) + " iterations of pos tagging done" + "\n")
-
 i = 0
 with open(r"data/female_tagged.txt", "w+") as femaletxt:
     for sentence in word_tokenized_female_text:
