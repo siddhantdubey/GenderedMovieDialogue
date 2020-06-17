@@ -47,30 +47,37 @@ with open(r'data/genderless_tagged.txt') as gl_t:
             else:
                 gl_pos[pos] = 1
 
-width = 2.0
+width = 0.3
+plt.figure(figsize=(20,4))
 plt.title('Frequency of POS Tags in Utterances Spoken by Male Characters')
 plt.xlabel('POS Tags')
 plt.ylabel('Frequency')
-plt.bar(male_pos.keys(), male_pos.values(), width, color = 'g')
+plt.bar(male_pos.keys(), male_pos.values(), width, align='edge', color = 'g')
+plt.xticks(rotation=90)
 plt.savefig('figures/male_pos.png')
 plt.close()
 
+plt.figure(figsize=(20,4))
 plt.title('Frequency of POS Tags in Utterances Spoken by Female Characters')
 plt.xlabel('POS Tags')
 plt.ylabel('Frequency')
-plt.bar(fem_pos.keys(), fem_pos.values(), width, color = 'r')
+plt.bar(fem_pos.keys(), fem_pos.values(), width, align='edge', color = 'r')
+plt.xticks(rotation=90)
 plt.savefig('figures/female_pos.png')
 plt.close()
 
+plt.figure(figsize=(20,4))
 plt.title('Frequency of POS Tags in Utterances Spoken by Genderless Characters')
 plt.xlabel('POS Tags')
 plt.ylabel('Frequency')
-plt.bar(gl_pos.keys(), gl_pos.values(), width, color = 'b')
+plt.bar(gl_pos.keys(), gl_pos.values(), width, align='edge', color = 'b')
+plt.xticks(rotation=90)
 plt.savefig('figures/genderless_pos.png')
 plt.close()
 
-width = 1.0
+width = 0.1
 fig, axs = plt.subplots(1, 3, sharey=True, tight_layout=False)
+plt.figure(figsize=(20,3))
 plt.suptitle('Frequency of POS Tags in Utterances Spoken by Characters')
 axs[0].set_xlabel('POS Tags')
 axs[1].set_xlabel('POS Tags')
@@ -82,6 +89,7 @@ axs[2].set_title('Genderless')
 axs[0].bar(male_pos.keys(), male_pos.values(), width, color = 'g')
 axs[1].bar(fem_pos.keys(), fem_pos.values(), width, color = 'r')
 axs[2].bar(gl_pos.keys(), gl_pos.values(), width, color = 'b')
+
 plt.savefig("figures/combined_pos_plots.png")
 plt.close()
 
