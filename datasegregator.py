@@ -20,8 +20,8 @@ with open(r'data/training_set.txt','w+') as train_set:
 
 with open(r'data/test_set.txt','w+') as test_set:
     for j in range(len(test_data)):
-        train_set.write(str(test_data[j]))
+        test_set.write(str(test_data[j]))
 
 with open(r'data/validation_set.txt','w+') as valid_set:
     for k in range(len(valid_data)):
-        train_set.write(str(valid_data[k]))
+        valid_set.write(str(valid_data[k]))
