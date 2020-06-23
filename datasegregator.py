@@ -7,6 +7,8 @@ with open(r'data/collated_data.txt') as cdata:
         line_num, chr_id, movie_id, chr_name, gender, line_txt, credit_order = line.split('+++$+++')
         mod_movie_id = movie_id.replace('m','')
         mod_movie_id = int(mod_movie_id)
+        line = line.replace('<i>','')
+        line = line.replace('</i>','')
         if mod_movie_id <= 492:
             train_data.append(line)
         elif mod_movie_id <= 554 and mod_movie_id >=493:
