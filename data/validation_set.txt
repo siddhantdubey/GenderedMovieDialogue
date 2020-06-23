@@ -6,21 +6,21 @@ L578848  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ Why woul
 L578847  +++$+++ u8172  +++$+++ m555  +++$+++ AGENT  +++$+++ ? +++$+++ I do have a fabulous rate on a cruise ship departing for Fiji tomorrow.  But you wouldn't want to do that. +++$+++ ? 
 L578846  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ You are a travel agent, aren't you?  "Doris"?  Your job is to help people travel. +++$+++ 1 
 L578845  +++$+++ u8172  +++$+++ m555  +++$+++ AGENT  +++$+++ ? +++$+++ It's the busy season. +++$+++ ? 
-L578844  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ <i>A month.</i> +++$+++ 1 
+L578844  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ A month. +++$+++ 1 
 L578843  +++$+++ u8172  +++$+++ m555  +++$+++ AGENT  +++$+++ ? +++$+++ I'm sorry.  I don't have anything for at least a month. +++$+++ ? 
 L578842  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ Today. +++$+++ 1 
 L578841  +++$+++ u8172  +++$+++ m555  +++$+++ AGENT  +++$+++ ? +++$+++ When do you want to leave, remembering, of course, you do lose a day on the way there? +++$+++ ? 
 L578840  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ One. +++$+++ 1 
 L578839  +++$+++ u8172  +++$+++ m555  +++$+++ AGENT  +++$+++ ? +++$+++ Viti Levu.  For how many? +++$+++ ? 
 L578838  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ I'm sorry, er...the biggest one. +++$+++ 1 
-L578837  +++$+++ u8172  +++$+++ m555  +++$+++ AGENT  +++$+++ ? +++$+++ <i>Where</i> in Fiji?  What island? +++$+++ ? 
-L578836  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ <i>Fiji.</i> +++$+++ 1 
+L578837  +++$+++ u8172  +++$+++ m555  +++$+++ AGENT  +++$+++ ? +++$+++ Where in Fiji?  What island? +++$+++ ? 
+L578836  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ Fiji. +++$+++ 1 
 L578835  +++$+++ u8172  +++$+++ m555  +++$+++ AGENT  +++$+++ ? +++$+++ Where exactly? +++$+++ ? 
 L578834  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ I want to book a flight to Fiji. +++$+++ 1 
 L578833  +++$+++ u8172  +++$+++ m555  +++$+++ AGENT  +++$+++ ? +++$+++ I'm sorry to keep you.  How can I help? +++$+++ ? 
 L579147  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ Do it! +++$+++ 43 
 L579146  +++$+++ u8184  +++$+++ m555  +++$+++ SIMEON  +++$+++ ? +++$+++ He doesn't care. +++$+++ ? 
-L579129  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ <i>Storm</i> music...Wagner... +++$+++ 43 
+L579129  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ Storm music...Wagner... +++$+++ 43 
 L579128  +++$+++ u8184  +++$+++ m555  +++$+++ SIMEON  +++$+++ ? +++$+++ What music? +++$+++ ? 
 L579127  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ Cue music... +++$+++ 43 
 L579115  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ Sweep the harbor. +++$+++ 43 
@@ -55,7 +55,7 @@ L579027  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ There'
 L579026  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ All products carefully chosen and tested by you for quality and aesthetic value. +++$+++ ? 
 L579025  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ Yes, everything you see on the show is for sale - from the actors' wardrobe, food products, to the very homes they live in-- +++$+++ 43 
 L579024  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ No, of course not.  And since the show runs 24 hours a day with no commercial breaks the staggering profits are all generated from product placement. +++$+++ ? 
-L579023  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ People forget it takes the <i>population</i> of an entire country to keep the show running. +++$+++ 43 
+L579023  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ People forget it takes the population of an entire country to keep the show running. +++$+++ 43 
 L579022  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ And the show now generates a yearly income equivalent to the gross national product of a small country. +++$+++ ? 
 L579021  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ That's correct. +++$+++ 43 
 L579020  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ Who knew that a show originally meant to last one year - "Bringing Up Baby" - would turn into a "cradle to grave" concept.  He is in fact the first child in the world to be legally adopted by a corporation. +++$+++ ? 
@@ -82,24 +82,24 @@ L578989  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ As you
 L578988  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ Let's talk ratings.  "Truman" has always enjoyed top ten status but the huge surge over the last few days--how do you hope to sustain that audience now that Truman appears to have reconciled himself? +++$+++ ? 
 L578987  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ Of course. +++$+++ ? 
 L578986  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ Amnesia. +++$+++ 43 
-L578985  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ How <i>do</i> you intend to explain his twenty- two year absence? +++$+++ ? 
+L578985  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ How do you intend to explain his twenty- two year absence? +++$+++ ? 
 L578984  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ That and a fat, new contract. +++$+++ 43 
 L578983  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ I understand he's hardly had a life of his own since he left the show.  How did you convince him--was it the opportunity to be close to Truman again? +++$+++ ? 
 L578982  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ Since Kirk started this whole crisis in Truman's life, I came to the conclusion that he was the only one who could end it. +++$+++ 43 
 L578981  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ --and certainly the first time that an intruder has been rewarded with a starring role.  I really must congratulate you on writing Kirk back in.  A master stroke. +++$+++ ? 
 L578980  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ --a dead one at that. +++$+++ 43 
 L578979  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ Of course, there hasn't been anything to compare with this - the first time an intruder has been a former cast member-- +++$+++ ? 
-L578975  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ We <i>have</i> had our close calls in the past. +++$+++ 43 
+L578975  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ We have had our close calls in the past. +++$+++ 43 
 L578974  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ The catalyst for the recent dramatic events was of course Truman's father, Kirk, and his infiltration onto the show. Before we discuss that, it's worth reminding viewers that this isn't the first time someone from the outside world has tried to reach Truman. +++$+++ ? 
 L578973  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ Thank you. +++$+++ 43 
 L578972  +++$+++ u8177  +++$+++ m555  +++$+++ INTERVIEWER  +++$+++ M +++$+++ Welcome. +++$+++ ? 
 L579164  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ --You never had a camera in my head. +++$+++ 1 
 L579163  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ Truman, I've watched you your whole life. I saw you take your first step, your first word, your first kiss.  I know you better than you know yourself.  You're not going to walk out that door-- +++$+++ 43 
 L579162  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ I have a map. +++$+++ 1 
-L579158  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ <i>You</i> were real.  That's what made you you so good to watch. +++$+++ 43 
+L579158  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ You were real.  That's what made you you so good to watch. +++$+++ 43 
 L579157  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ Nothing was real. +++$+++ 1 
 L579156  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ You're the star. +++$+++ 43 
-L579155  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ <i>A show.</i>  Then who am I? +++$+++ 1 
+L579155  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ A show.  Then who am I? +++$+++ 1 
 L579154  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ A show - that gives hope and joy and inspiration to millions. +++$+++ 43 
 L579153  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ The creator of what? +++$+++ 1 
 L579152  +++$+++ u8173  +++$+++ m555  +++$+++ CHRISTOF  +++$+++ m +++$+++ I'm the creator. +++$+++ 43 
@@ -142,7 +142,7 @@ L578952  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ The thin
 L578951  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ What's that? +++$+++ 1 
 L578950  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ Not the whole thing, Truman.  You were right about one thing. +++$+++ 3 
 L578949  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ So what are you saying, Marlon, the whole thing has been in my head--? +++$+++ 1 
-L578948  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ And the last thing I'd ever do is lie to you.  Think about it, Truman, if everybody's in on it, I'd have to be in on it too. I'm not in on it, because there is no <i>it.</i> +++$+++ 3 
+L578948  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ And the last thing I'd ever do is lie to you.  Think about it, Truman, if everybody's in on it, I'd have to be in on it too. I'm not in on it, because there is no it. +++$+++ 3 
 L578942  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ This is different.  Everybody seems to be in on it. +++$+++ 1 
 L578941  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ It's a lot of world for one man.  You sure that's not wishful thinking, you wishing you'd made something more of yourself? Christ, Truman, who hasn't sat on the John and had an imaginary interview on "Seahaven Tonight"?  Who hasn't wanted to be somebody? +++$+++ 3 
 L578940  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ I don't know what to think, Marlon. Maybe I'm going out of my mind, but I get the feeling that the world revolves around me somehow. +++$+++ 1 
@@ -170,7 +170,7 @@ L578773  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ Your Dad
 L578772  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ I think it's got something to do with my dad. +++$+++ 1 
 L578771  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ No.  Truman, if this is another one of your fantasies... +++$+++ 3 
 L578770  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ There's no point in trying to explain it, but a lot of strange things have been happening - elevators that don't go anywhere, people talking about me on the radio, you know what I mean? +++$+++ 1 
-L578769  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ <i>Mixed up?</i>  Mixed up in what? +++$+++ 3 
+L578769  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ Mixed up?  Mixed up in what? +++$+++ 3 
 L578768  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ I think I'm mixed up in something. +++$+++ 1 
 L578767  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ Are you okay?  You look like shit. +++$+++ 3 
 L578766  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ I'm onto something, Marlon - something big. +++$+++ 1 
@@ -186,16 +186,16 @@ L578607  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ You thin
 L578606  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ I figured, what's the point?  I knew I'd just be taking my problems with me.  Once the kids came along, it made me look at Seahaven with new eyes.  I realized, what the hell could be better than this?  I'm telling you.  What you really need is someone to carry on the "Burbank" name. +++$+++ 3 
 L578605  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ Yeah, what happened? +++$+++ 1 
 L578604  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ Truman, you know, I did think about moving away one time. +++$+++ 3 
-L578602  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ <i>Spare room</i> - I can start thinking about selling up...and I'll be gone.  Up and away on that big steel bird.  I'm going, don't you worry about that. +++$+++ 1 
+L578602  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ Spare room - I can start thinking about selling up...and I'll be gone.  Up and away on that big steel bird.  I'm going, don't you worry about that. +++$+++ 1 
 L578601  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ Nursery? +++$+++ 3 
 L578600  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ It's not that simple.  Takes money, planning.  You can't just up and go.  Oh, I'm going to do it, don't worry about that.  I've just got to move slow.  Pick my moment.  Bonus time's just around the corner.  Soon as I finish the... +++$+++ 1 
 L578599  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ So when are you leaving? +++$+++ 3 
 L578598  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ See here, this is us.  All the way round here, Fiji.  You can't get any further away before you start coming back.  Y'know, there are still islands in Fiji where no human has ever set foot. +++$+++ 1 
-L578591  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ Outta my job, outta Seahaven, off this island...<i>out!</i> +++$+++ 1 
+L578591  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ Outta my job, outta Seahaven, off this island...out! +++$+++ 1 
 L578590  +++$+++ u8179  +++$+++ m555  +++$+++ MARLON  +++$+++ m +++$+++ Yeah?  Outta what? +++$+++ 3 
 L578589  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ I'm thinking of getting out, Marlon. +++$+++ 1 
 L579046  +++$+++ u8180  +++$+++ m555  +++$+++ MERYL  +++$+++ f +++$+++ --Truman, you're gonna be late! +++$+++ 2 
-L579045  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ --What are my plans now?  Well, next I'm thinking of tackling the Yuba River in an authentic canoe from the Algonquin tribe. --I'm talking about the north fork, a class five rapid - only I'm not going <i>down</i> the Yuba, I'm going <i>up.</i>  Do you honestly think for one minute I'd go back to some dreary office to rubber stamp meaningless documents...do you? +++$+++ 1 
+L579045  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ --What are my plans now?  Well, next I'm thinking of tackling the Yuba River in an authentic canoe from the Algonquin tribe. --I'm talking about the north fork, a class five rapid - only I'm not going down the Yuba, I'm going up.  Do you honestly think for one minute I'd go back to some dreary office to rubber stamp meaningless documents...do you? +++$+++ 1 
 L578935  +++$+++ u8180  +++$+++ m555  +++$+++ MERYL  +++$+++ f +++$+++ Truman, stop it! +++$+++ 2 
 L578934  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ No.  You said, "Do something."  Who were you talking to?  Tell me! +++$+++ 1 
 L578933  +++$+++ u8180  +++$+++ m555  +++$+++ MERYL  +++$+++ f +++$+++ You're the one talking to the walls! +++$+++ 2 
@@ -290,7 +290,7 @@ L578514  +++$+++ u8180  +++$+++ m555  +++$+++ MERYL  +++$+++ f +++$+++ Well, wha
 L578513  +++$+++ u8180  +++$+++ m555  +++$+++ MERYL  +++$+++ f +++$+++ It's a surprise. +++$+++ 2 
 L578512  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ What's that? +++$+++ 1 
 L578511  +++$+++ u8180  +++$+++ m555  +++$+++ MERYL  +++$+++ f +++$+++ Truman, you're gonna be late! +++$+++ 2 
-L578510  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ ...personally I think the unconquered south face is the only one worth scaling...of course it's a 20,000 foot sheer wall of ice but then when did that ever stop me before?...Naturally, I intend to make the ascent without the benefit of oxygen but also without crampons or even an ice pick...<i>risks?</i>...  ...sure I'm aware of the risks--why else do you think I would spend seven years as an adjuster in a life insurance company...? +++$+++ 1 
+L578510  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ ...personally I think the unconquered south face is the only one worth scaling...of course it's a 20,000 foot sheer wall of ice but then when did that ever stop me before?...Naturally, I intend to make the ascent without the benefit of oxygen but also without crampons or even an ice pick...risks?...  ...sure I'm aware of the risks--why else do you think I would spend seven years as an adjuster in a life insurance company...? +++$+++ 1 
 L578797  +++$+++ u8181  +++$+++ m555  +++$+++ MOTHER  +++$+++ ? +++$+++ Things always do--when you look back. +++$+++ ? 
 L578796  +++$+++ u8186  +++$+++ m555  +++$+++ TRUMAN  +++$+++ m +++$+++ It looks so small. +++$+++ 1 
 L578795  +++$+++ u8181  +++$+++ m555  +++$+++ MOTHER  +++$+++ ? +++$+++ Hold on a minute, dear.  Here's us at Mount Rushmore.  You remember, Truman--when Dad was still with us - that was quite a drive.  You slept all the way there. +++$+++ ? 
@@ -1815,7 +1815,7 @@ L586265  +++$+++ u8238  +++$+++ m560  +++$+++ CARLETON  +++$+++ ? +++$+++ Fine, 
 L586264  +++$+++ u8234  +++$+++ m560  +++$+++ BILLINGS  +++$+++ ? +++$+++ That's a movie, you moron. +++$+++ ? 
 L586263  +++$+++ u8238  +++$+++ m560  +++$+++ CARLETON  +++$+++ ? +++$+++ That was an ark, man. That was a Torah. They fucked around with it, and the Torah melted their faces. +++$+++ ? 
 L586262  +++$+++ u8234  +++$+++ m560  +++$+++ BILLINGS  +++$+++ ? +++$+++ What?? +++$+++ ? 
-L586261  +++$+++ u8238  +++$+++ m560  +++$+++ CARLETON  +++$+++ ? +++$+++ Didn't you see <i>Raiders of the Lost Ark</i>? +++$+++ ? 
+L586261  +++$+++ u8238  +++$+++ m560  +++$+++ CARLETON  +++$+++ ? +++$+++ Didn't you see Raiders of the Lost Ark? +++$+++ ? 
 L585902  +++$+++ u8234  +++$+++ m560  +++$+++ BILLINGS  +++$+++ ? +++$+++ He's an asshole. +++$+++ ? 
 L585901  +++$+++ u8238  +++$+++ m560  +++$+++ CARLETON  +++$+++ ? +++$+++ Fucking Danny, man... +++$+++ ? 
 L585797  +++$+++ u8234  +++$+++ m560  +++$+++ BILLINGS  +++$+++ ? +++$+++ She's been giving me the eye. She's hot. So I wait till the owner goes up front.... +++$+++ ? 
@@ -1844,7 +1844,7 @@ L586037  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Yes. +++$
 L586036  +++$+++ u8234  +++$+++ m560  +++$+++ BILLINGS  +++$+++ ? +++$+++ Do we have to listen to this shit? +++$+++ ? 
 L585900  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ We'll go to the country sometime, okay? +++$+++ 1 
 L585899  +++$+++ u8234  +++$+++ m560  +++$+++ BILLINGS  +++$+++ ? +++$+++ You coming? +++$+++ ? 
-L585893  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Read <i>Mein Kampf</i>? Hitler had all his best ideas in prison. +++$+++ 1 
+L585893  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Read Mein Kampf? Hitler had all his best ideas in prison. +++$+++ 1 
 L585892  +++$+++ u8234  +++$+++ m560  +++$+++ BILLINGS  +++$+++ ? +++$+++ What, do you like it here? +++$+++ ? 
 L585887  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Then I won't bring you.... +++$+++ 1 
 L585886  +++$+++ u8234  +++$+++ m560  +++$+++ BILLINGS  +++$+++ ? +++$+++ Bring your friends.... We're not his friends. +++$+++ ? 
@@ -1979,7 +1979,7 @@ L585907  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Are they 
 L585906  +++$+++ u8236  +++$+++ m560  +++$+++ CARLA  +++$+++ f +++$+++ They're my father's. He's from Argentina. My mother's family went there during the war. That's where they met. +++$+++ 8 
 L585905  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ How come so many of the books are in Spanish? +++$+++ 1 
 L585904  +++$+++ u8236  +++$+++ m560  +++$+++ CARLA  +++$+++ f +++$+++ "And the words fell apart in my mouth like moldering mushrooms..." +++$+++ 8 
-L585903  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ "...<i>und die Worte zerfielen mir im Munde wie modrige Pilze</i>..." +++$+++ 1 
+L585903  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ "...und die Worte zerfielen mir im Munde wie modrige Pilze..." +++$+++ 1 
 L585884  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ You want it to be an event. +++$+++ 1 
 L585883  +++$+++ u8236  +++$+++ m560  +++$+++ CARLA  +++$+++ f +++$+++ Why no silencer? +++$+++ 8 
 L585862  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ I just read it.... +++$+++ 1 
@@ -2001,7 +2001,7 @@ L586078  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ He called
 L586077  +++$+++ u8237  +++$+++ m560  +++$+++ CARLA'S VOICE  +++$+++ ? +++$+++ I doubt it. How did you find out? +++$+++ ? 
 L586076  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ I didn't notice his shoes.... Did your mother know he was there? +++$+++ 1 
 L586075  +++$+++ u8237  +++$+++ m560  +++$+++ CARLA'S VOICE  +++$+++ ? +++$+++ Really, which one? I bet it was the guy with the Prada shoes. +++$+++ ? 
-L586074  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Did you know that there was a <i>New York Times</i> reporter there that night? +++$+++ 1 
+L586074  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Did you know that there was a New York Times reporter there that night? +++$+++ 1 
 L586073  +++$+++ u8237  +++$+++ m560  +++$+++ CARLA'S VOICE  +++$+++ ? +++$+++ I don't. I was just curious how full of shit you were. +++$+++ ? 
 L586072  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ I didn't realize you cared. +++$+++ 1 
 L586071  +++$+++ u8237  +++$+++ m560  +++$+++ CARLA'S VOICE  +++$+++ ? +++$+++ Yeah, I remember.... Kill any Jews yet? +++$+++ ? 
@@ -2028,7 +2028,7 @@ L586328  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ I've been
 L586327  +++$+++ u8239  +++$+++ m560  +++$+++ CURTIS  +++$+++ m +++$+++ That doesn't seem to be happening, does it? +++$+++ 6 
 L586326  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ What about...Manzetti, the synagogues.... +++$+++ 1 
 L586322  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ I've been waiting all my life for something like this. +++$+++ 1 
-L586321  +++$+++ u8239  +++$+++ m560  +++$+++ CURTIS  +++$+++ m +++$+++ We want to build bridges to certain positions in the political mainstream: works like <i>The Bell Curve</i>, <i>Sociobiology</i>, anti-Zionism, anti- immigration, the com-munitarian issue.... We'll hold conferences: invite liberals, blacks, Jews. Chomsky, Cockburn, Stanley Crouch, Shahack.... +++$+++ 6 
+L586321  +++$+++ u8239  +++$+++ m560  +++$+++ CURTIS  +++$+++ m +++$+++ We want to build bridges to certain positions in the political mainstream: works like The Bell Curve, Sociobiology, anti-Zionism, anti- immigration, the com-munitarian issue.... We'll hold conferences: invite liberals, blacks, Jews. Chomsky, Cockburn, Stanley Crouch, Shahack.... +++$+++ 6 
 L586226  +++$+++ u8239  +++$+++ m560  +++$+++ CURTIS  +++$+++ m +++$+++ What's that?  Okay. Surprise us... +++$+++ 6 
 L586225  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ A week or so. There's something I want to do here first. +++$+++ 1 
 L586224  +++$+++ u8239  +++$+++ m560  +++$+++ CURTIS  +++$+++ m +++$+++ They left an hour ago.  You mind some personal advice? Forget Carla. That's not the side your bread's buttered on.  How soon can you get back to the city? +++$+++ 6 
@@ -2056,9 +2056,9 @@ L586561  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Get the f
 L586560  +++$+++ u8244  +++$+++ m560  +++$+++ GUY  +++$+++ m +++$+++ It's too late.... If I didn't, somebody else would.  Yom Kippur starts at sundown. Will you go to synagogue? +++$+++ 16 
 L586559  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ If I tell you, will you pull the story? Not write about me? +++$+++ 1 
 L586558  +++$+++ u8244  +++$+++ m560  +++$+++ GUY  +++$+++ m +++$+++ Who killed Manzetti? +++$+++ 16 
-L586557  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Yeah, and what are you? A <i>Times</i> man? A Presbyterian? Impotent? A prick? +++$+++ 1 
+L586557  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Yeah, and what are you? A Times man? A Presbyterian? Impotent? A prick? +++$+++ 1 
 L586556  +++$+++ u8244  +++$+++ m560  +++$+++ GUY  +++$+++ m +++$+++ I don't think you know what you are. +++$+++ 16 
-L586555  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ You work for the <i>New York Times</i>. Your whole job in life is not to understand things like me. +++$+++ 1 
+L586555  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ You work for the New York Times. Your whole job in life is not to understand things like me. +++$+++ 1 
 L586554  +++$+++ u8244  +++$+++ m560  +++$+++ GUY  +++$+++ m +++$+++ Explain it so I can. +++$+++ 16 
 L586553  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ I don't. Look, stay out of what you don't understand. +++$+++ 1 
 L586552  +++$+++ u8244  +++$+++ m560  +++$+++ GUY  +++$+++ m +++$+++ How do you reconcile the two? +++$+++ 16 
@@ -2146,8 +2146,8 @@ L586565  +++$+++ u8250  +++$+++ m560  +++$+++ MIRIAM  +++$+++ f +++$+++ It was a
 L586564  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ A forty-five. +++$+++ 1 
 L586563  +++$+++ u8250  +++$+++ m560  +++$+++ MIRIAM  +++$+++ f +++$+++ You're telling me you killed him? You? Killed him? Bullshit. What kind of gun did you use? +++$+++ 32 
 L586477  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ With the shoes... There was more than one? +++$+++ 1 
-L586476  +++$+++ u8250  +++$+++ m560  +++$+++ MIRIAM  +++$+++ f +++$+++ Which <i>Times</i> guy? +++$+++ 32 
-L586475  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ You mean the <i>Times</i> guy? +++$+++ 1 
+L586476  +++$+++ u8250  +++$+++ m560  +++$+++ MIRIAM  +++$+++ f +++$+++ Which Times guy? +++$+++ 32 
+L586475  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ You mean the Times guy? +++$+++ 1 
 L586474  +++$+++ u8250  +++$+++ m560  +++$+++ MIRIAM  +++$+++ f +++$+++ I work in the DA's office. You go to those meetings, half the people there are informants. +++$+++ 32 
 L586473  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ How did you...? +++$+++ 1 
 L586472  +++$+++ u8250  +++$+++ m560  +++$+++ MIRIAM  +++$+++ f +++$+++ Tell me about Lina Moebius. +++$+++ 32 
@@ -2228,8 +2228,8 @@ L585969  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ No, it's.
 L585968  +++$+++ u8256  +++$+++ m560  +++$+++ VOICE  +++$+++ ? +++$+++ Isn't it true? +++$+++ ? 
 L585967  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Who told you that? +++$+++ 1 
 L585966  +++$+++ u8256  +++$+++ m560  +++$+++ VOICE  +++$+++ ? +++$+++ I'm doing a piece on right-wing groups, post Oklahoma City. I hear you're an important figure in those circles. You have a lot of interesting ideas.... +++$+++ ? 
-L585965  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ <i>New York Times</i>...? +++$+++ 1 
-L585964  +++$+++ u8256  +++$+++ m560  +++$+++ VOICE  +++$+++ ? +++$+++ Daniel Balint? My name's Guy Danielsen. I'm a reporter with the <i>New York Times</i>. +++$+++ ? 
+L585965  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ New York Times...? +++$+++ 1 
+L585964  +++$+++ u8256  +++$+++ m560  +++$+++ VOICE  +++$+++ ? +++$+++ Daniel Balint? My name's Guy Danielsen. I'm a reporter with the New York Times. +++$+++ ? 
 L585963  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Hello...? +++$+++ 1 
 L586640  +++$+++ u8246  +++$+++ m560  +++$+++ KYLE  +++$+++ m +++$+++ So that's what? Nineteen thirty minutes...what time is it now... +++$+++ 18 
 L586639  +++$+++ u8240  +++$+++ m560  +++$+++ DANNY  +++$+++ m +++$+++ Seven-thirty tomorrow evening. +++$+++ 1 
@@ -11364,7 +11364,7 @@ L622267  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ So did I. 
 L622266  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ I already lost everything once. +++$+++ 1 
 L622254  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ All the time. +++$+++ 3 
 L622253  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ How long has - +++$+++ 1 
-L622252  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ What difference does <i>that</i> make? +++$+++ 3 
+L622252  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ What difference does that make? +++$+++ 3 
 L622251  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ Surely she is older? +++$+++ 1 
 L622250  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ Did you now. +++$+++ 3 
 L622249  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ I thought she was fondest of you, because you were the youngest. +++$+++ 1 
@@ -11387,7 +11387,7 @@ L622220  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ He'll be l
 L622219  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ He'll murder you when he finds out. +++$+++ 1 
 L622217  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ You did what? +++$+++ 1 
 L622216  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ I finished it off. +++$+++ 3 
-L622215  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ You <i>are</i> cold. Where have you been? +++$+++ 1 
+L622215  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ You are cold. Where have you been? +++$+++ 1 
 L622214  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ I'm cold. +++$+++ 3 
 L622213  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ Finn - +++$+++ 1 
 L622212  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ Would you mind holding me in your arms for a little while? +++$+++ 3 
@@ -11408,7 +11408,7 @@ L622178  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ Ah, you sh
 L622177  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ Is that all? +++$+++ 1 
 L622176  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ That's your beach. This is the story. Leda walks by the shore, gathering shells.  Night comes on. She hears the beating of great wings and sees the approach of the swan. She runs away but it bears down and casts her to the ground. Curtain. +++$+++ 3 
 L622133  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ Get away from me... +++$+++ 1 
-L622132  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ What was <i>that</i> in aid of? +++$+++ 3 
+L622132  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ What was that in aid of? +++$+++ 3 
 L622111  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ What about school? +++$+++ 1 
 L622110  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ She'll have to learn. +++$+++ 3 
 L622109  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ She's not accustomed to being ignored. +++$+++ 1 
@@ -11421,13 +11421,13 @@ L622086  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ Didn't you
 L622085  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ It's as though he'd trapped a real cuckoo inside. +++$+++ 1 
 L622084  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ He made that. In his off hours. +++$+++ 3 
 L622083  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ She got away. +++$+++ 3 
-L622082  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ Mummy was scared of him, I think. He went to her wedding but he was <i>furious</i>, you can see it in the photograph. +++$+++ 1 
+L622082  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ Mummy was scared of him, I think. He went to her wedding but he was furious, you can see it in the photograph. +++$+++ 1 
 L622081  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ He can take out his smile and keep it on a shelf, but, his bite is worse than his bark, isn't that so, old fellow? +++$+++ 3 
 L622080  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ I saw his teeth in the bathroom. +++$+++ 1 
 L622077  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ Speak when you're spoken to. He likes his women quiet. +++$+++ 3 
 L622076  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ Is there anything else I should know about him? +++$+++ 1 
 L622075  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ Slip up and change into a skirt, else he'll create something terrible. Don't you want to make a good impression on your first day? +++$+++ 3 
-L622074  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ A sin against <i>what?</i> +++$+++ 1 
+L622074  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ A sin against what? +++$+++ 1 
 L622073  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ He can't abide a woman in trousers. He says a woman in trousers is a sin against nature. +++$+++ 3 
 L622071  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ I carried you up to your bed. +++$+++ 3 
 L622070  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ I did like the music. +++$+++ 1 
@@ -11444,7 +11444,7 @@ L622055  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ You'll put
 L622042  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ There's no law, as I know of, to prevent it. +++$+++ 3 
 L622041  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ But you're Irish! +++$+++ 1 
 L622040  +++$+++ u8546  +++$+++ m580  +++$+++ FINN  +++$+++ m +++$+++ You'll need to know who we are, we're the brothers of his wife, which makes us in an unsanctified kind of way, your uncles. Me name is Finn, me brother is called Francie - +++$+++ 3 
-L622023  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ In the play. She was married, by my age. And Mummy. Mummy wasn't much older than me when she got married. Well, not <i>that</i> much older. +++$+++ 1 
+L622023  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ In the play. She was married, by my age. And Mummy. Mummy wasn't much older than me when she got married. Well, not that much older. +++$+++ 1 
 L622022  +++$+++ u8547  +++$+++ m580  +++$+++ JONATHON  +++$+++ ? +++$+++ Juliet who? +++$+++ ? 
 L622021  +++$+++ u8548  +++$+++ m580  +++$+++ MELANIE  +++$+++ f +++$+++ I'm not too young. Juliet was my age. +++$+++ 1 
 L622020  +++$+++ u8547  +++$+++ m580  +++$+++ JONATHON  +++$+++ ? +++$+++ We're too young. +++$+++ ? 
@@ -20992,7 +20992,7 @@ L643582  +++$+++ u8819  +++$+++ m598  +++$+++ MOSS  +++$+++ M +++$+++ What do we
 L643581  +++$+++ u8810  +++$+++ m598  +++$+++ BREAN  +++$+++ m +++$+++ I'm sure they do. +++$+++ 2 
 L643580  +++$+++ u8819  +++$+++ m598  +++$+++ MOSS  +++$+++ M +++$+++ They got to have something that we want. +++$+++ ? 
 L643579  +++$+++ u8810  +++$+++ m598  +++$+++ BREAN  +++$+++ m +++$+++ Because. +++$+++ 2 
-L643578  +++$+++ u8819  +++$+++ m598  +++$+++ MOSS  +++$+++ M +++$+++ ...Yoha, Yoha... Yoha.  <i>Why</i> Albania? +++$+++ ? 
+L643578  +++$+++ u8819  +++$+++ m598  +++$+++ MOSS  +++$+++ M +++$+++ ...Yoha, Yoha... Yoha.  Why Albania? +++$+++ ? 
 L643577  +++$+++ u8810  +++$+++ m598  +++$+++ BREAN  +++$+++ m +++$+++ It's Miss America, N'you're Bert Parks. +++$+++ 2 
 L643576  +++$+++ u8819  +++$+++ m598  +++$+++ MOSS  +++$+++ M +++$+++ "The Country Is At War." +++$+++ ? 
 L643575  +++$+++ u8810  +++$+++ m598  +++$+++ BREAN  +++$+++ m +++$+++ ...that's what it is. +++$+++ 2 
