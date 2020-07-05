@@ -153,9 +153,10 @@ Y_test = Y_test['target']
 print("Data Split")
 count_vect = CountVectorizer(ngram_range=(1,3))
 
-X_train_counts = count_vect.fit_transform(X_train)
+X_train_counts = count_vect.fit_transform(X)
 tfidf_transformer = TfidfTransformer()
 X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
+print(np.asarray(X_train_tfidf))
 print("Count Vectorized")
 # kbest = SelectKBest(score_func = chi2, k = 1)
 # X_train_kbest = kbest.fit_transform(X_train_counts, Y_train)
@@ -185,7 +186,7 @@ entries = []
 
 for model in models:
     model_name = model.__class__.__name__
-    accuracies = cross_val_score(model, X_train_tfidf, Y_train, scoring='accuracy', cv=5)
+    accuracies = cross_val_score(model, X_train_tfidf, Y, scoring='accuracy', cv=5)
     
     # name = "n_estimators"
     # if(model_name.strip() == "RandomForestClassifier"):
